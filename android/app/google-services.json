@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955278987042",
+    "project_id": "detection-ai-image--and-voice",
+    "storage_bucket": "detection-ai-image--and-voice.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955278987042:android:1178b83aefc1278bf99f7b",
+        "android_client_info": {
+          "package_name": "com.example.app_ai_traiter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC552Luk9Knd9QpFO3eY_QEE1itRmLTISA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
