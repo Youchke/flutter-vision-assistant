@@ -4,7 +4,8 @@
 
 **SmartVision Assistant** is an innovative Flutter mobile application that combines artificial intelligence and computer vision to create an intelligent and versatile virtual assistant. The application offers an intuitive user experience with voice recognition, creative image generation, and real-time object detection.
 
-![Screenshot 1](assets/images/home_screen.png)
+![Screenshot 1](assets/images/devices.png)
+![Screenshot 2](assets/images/home_screen.png)
 
 ## ✨ Key Features
 
